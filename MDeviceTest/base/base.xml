@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<base>
+  <device type="c4380m" serial="default">
+    <scale type="ac">
+      <point value="-inf" hw_angle="-10"/>
+      <point value="-h_inf" hw_angle="-10"/>
+      <point value="0" hw_angle="0"/>
+      <point value="3" hw_angle="2"/>
+      <point value="4" hw_angle="4"/>
+      <point value="5" hw_angle="7"/>
+      <point value="6" hw_angle="9"/>
+      <point value="7" hw_angle="12"/>
+      <point value="8" hw_angle="14"/>
+      <point value="9" hw_angle="16"/>
+      <point value="10" hw_angle="19"/>
+      <point value="11" hw_angle="21"/>
+      <point value="12" hw_angle="23"/>
+      <point value="13" hw_angle="26"/>
+      <point value="14" hw_angle="28"/>
+      <point value="15" hw_angle="31"/>
+      <point value="16" hw_angle="33"/>
+      <point value="17" hw_angle="36"/>
+      <point value="18" hw_angle="38"/>
+      <point value="19" hw_angle="41"/>
+      <point value="20" hw_angle="43"/>
+      <point value="21" hw_angle="46"/>
+      <point value="22" hw_angle="48"/>
+      <point value="23" hw_angle="51"/>
+      <point value="24" hw_angle="53"/>
+      <point value="25" hw_angle="56"/>
+      <point value="26" hw_angle="58"/>
+      <point value="27" hw_angle="61"/>
+      <point value="28" hw_angle="63"/>
+      <point value="29" hw_angle="66"/>
+      <point value="30" hw_angle="69"/>
+      <point value="+h_inf" hw_angle="80"/>
+      <point value="+inf" hw_angle="80"/>
+    </scale>
+  </device>
+  <device type="c4380m" serial="28EE12AB2C160233">
+    <scale type="ac">
+      <point value="-inf" hw_angle="-10"/>
+      <point value="-h_inf" hw_angle="-10"/>
+      <point value="0" hw_angle="0"/>
+      <point value="3" hw_angle="2"/>
+      <point value="4" hw_angle="4"/>
+      <point value="5" hw_angle="7"/>
+      <point value="6" hw_angle="9"/>
+      <point value="7" hw_angle="12"/>
+      <point value="8" hw_angle="14"/>
+      <point value="9" hw_angle="16"/>
+      <point value="10" hw_angle="19"/>
+      <point value="11" hw_angle="21"/>
+      <point value="12" hw_angle="23"/>
+      <point value="13" hw_angle="26"/>
+      <point value="14" hw_angle="28"/>
+      <point value="15" hw_angle="31"/>
+      <point value="16" hw_angle="33"/>
+      <point value="17" hw_angle="36"/>
+      <point value="18" hw_angle="38"/>
+      <point value="19" hw_angle="41"/>
+      <point value="20" hw_angle="43"/>
+      <point value="21" hw_angle="46"/>
+      <point value="22" hw_angle="48"/>
+      <point value="23" hw_angle="51"/>
+      <point value="24" hw_angle="53"/>
+      <point value="25" hw_angle="56"/>
+      <point value="26" hw_angle="58"/>
+      <point value="27" hw_angle="61"/>
+      <point value="28" hw_angle="63"/>
+      <point value="29" hw_angle="66"/>
+      <point value="30" hw_angle="69"/>
+      <point value="+h_inf" hw_angle="80"/>
+      <point value="+inf" hw_angle="80"/>
+    </scale>
+  </device>
+  <device type="c4352m1" serial="28FFBC6BA1160506">
+    <scale type="ac">
+      <point value="-inf" hw_angle="-10"/>
+      <point value="0" hw_angle="0"/>
+      <point value="1" hw_angle="4"/>
+      <point value="2" hw_angle="10"/>
+      <point value="3" hw_angle="16"/>
+      <point value="4" hw_angle="21"/>
+      <point value="5" hw_angle="27"/>
+      <point value="6" hw_angle="33"/>
+      <point value="7" hw_angle="38"/>
+      <point value="8" hw_angle="44"/>
+      <point value="9" hw_angle="51"/>
+      <point value="10" hw_angle="56"/>
+      <point value="11" hw_angle="62"/>
+      <point value="12" hw_angle="69"/>
+      <point value="13" hw_angle="74"/>
+      <point value="14" hw_angle="80"/>
+      <point value="15" hw_angle="87"/>
+      <point value="16" hw_angle="92"/>
+      <point value="17" hw_angle="98"/>
+      <point value="18" hw_angle="104"/>
+      <point value="19" hw_angle="110"/>
+      <point value="20" hw_angle="116"/>
+      <point value="21" hw_angle="122"/>
+      <point value="22" hw_angle="129"/>
+      <point value="23" hw_angle="135"/>
+      <point value="24" hw_angle="141"/>
+      <point value="25" hw_angle="146"/>
+      <point value="26" hw_angle="152"/>
+      <point value="27" hw_angle="158"/>
+      <point value="28" hw_angle="164"/>
+      <point value="29" hw_angle="170"/>
+      <point value="30" hw_angle="175"/>
+      <point value="+inf" hw_angle="190"/>
+    </scale>
+    <scale type="dc">
+      <point value="-inf" hw_angle="-10"/>
+      <point value="0" hw_angle="0"/>
+      <point value="1" hw_angle="4"/>
+      <point value="2" hw_angle="10"/>
+      <point value="3" hw_angle="16"/>
+      <point value="4" hw_angle="21"/>
+      <point value="5" hw_angle="27"/>
+      <point value="6" hw_angle="33"/>
+      <point value="7" hw_angle="38"/>
+      <point value="8" hw_angle="44"/>
+      <point value="9" hw_angle="51"/>
+      <point value="10" hw_angle="56"/>
+      <point value="11" hw_angle="62"/>
+      <point value="12" hw_angle="69"/>
+      <point value="13" hw_angle="74"/>
+      <point value="14" hw_angle="80"/>
+      <point value="15" hw_angle="87"/>
+      <point value="16" hw_angle="92"/>
+      <point value="17" hw_angle="98"/>
+      <point value="18" hw_angle="104"/>
+      <point value="19" hw_angle="110"/>
+      <point value="20" hw_angle="116"/>
+      <point value="21" hw_angle="122"/>
+      <point value="22" hw_angle="129"/>
+      <point value="23" hw_angle="135"/>
+      <point value="24" hw_angle="141"/>
+      <point value="25" hw_angle="146"/>
+      <point value="26" hw_angle="152"/>
+      <point value="27" hw_angle="158"/>
+      <point value="28" hw_angle="164"/>
+      <point value="29" hw_angle="170"/>
+      <point value="30" hw_angle="175"/>
+      <point value="+inf" hw_angle="190"/>
+    </scale>
+    <scale type="ohm">
+      <point hw_angle="190" value="-inf" />
+      <point hw_angle="175" value="0" />
+      <point hw_angle="169" value="0.01" />
+      <point hw_angle="162" value="0.02" />
+      <point hw_angle="155" value="0.03" />
+      <point hw_angle="150" value="0.04" />
+      <point hw_angle="144" value="0.05" />
+      <point hw_angle="139" value="0.06" />
+      <point hw_angle="133" value="0.07" />
+      <point hw_angle="129" value="0.08" />
+      <point hw_angle="125" value="0.09" />
+      <point hw_angle="122" value="0.1" />
+      <point hw_angle="115" value="0.12" />
+      <point hw_angle="108" value="0.14" />
+      <point hw_angle="102" value="0.16" />
+      <point hw_angle="98" value="0.18" />
+      <point hw_angle="92" value="0.2" />
+      <point hw_angle="83" value="0.25" />
+      <point hw_angle="75" value="0.3" />
+      <point hw_angle="68" value="0.35" />
+      <point hw_angle="62" value="0.4" />
+      <point hw_angle="57" value="0.45" />
+      <point hw_angle="53" value="0.5" />
+      <point hw_angle="46" value="0.6" />
+      <point hw_angle="41" value="0.7" />
+      <point hw_angle="36" value="0.8" />
+      <point hw_angle="33" value="0.9" />
+      <point hw_angle="30" value="1" />
+      <point hw_angle="16" value="2" />
+      <point hw_angle="10" value="3" />
+      <point hw_angle="6" value="5" />
+      <point hw_angle="0" value="+inf" />
+    </scale>
+  </device>
+</base>
+
