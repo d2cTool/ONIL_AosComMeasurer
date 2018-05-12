@@ -25,12 +25,12 @@ namespace AosComMeasurerTest
             }
         }
 
-        private void ComReader_LostConnection(object sender, DataEventArgs e)
+        private void ComReader_LostConnection(object sender, StrDataEventArgs e)
         {
             Debug.WriteLine($"LostConnection");
         }
 
-        private void ComReader_DataReceived(object sender, DataEventArgs e)
+        private void ComReader_DataReceived(object sender, StrDataEventArgs e)
         {
             Debug.WriteLine($"Data recieved: {e.Data}");
         }

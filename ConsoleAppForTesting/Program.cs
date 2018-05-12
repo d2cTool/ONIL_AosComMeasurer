@@ -34,12 +34,12 @@ namespace ConsoleAppForTesting
             }
         }
 
-        private static void ComReader_LostConnection(object sender, DataEventArgs e)
+        private static void ComReader_LostConnection(object sender, StrDataEventArgs e)
         {
             Console.WriteLine($"LostConnection");
         }
 
-        private static void ComReader_DataReceived(object sender, DataEventArgs e)
+        private static void ComReader_DataReceived(object sender, StrDataEventArgs e)
         {
             Console.WriteLine($"Data recieved: {e.Data}");
         }
